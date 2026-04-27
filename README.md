@@ -1,6 +1,6 @@
 # ESG Report Analyzer
 
-A small Python analyzer for ESG reports. It reads supported files from the `esg reports` folder and writes ranked results to `rankings.json`.
+A Python analyzer for ESG reports. It reads supported files from the `esg reports` folder and writes ranked results to `rankings.json`.
 
 ## Setup
 
