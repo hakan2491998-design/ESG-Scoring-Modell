@@ -1,0 +1,9 @@
+[project]
+name = "esg-analyzer"
+version = "0.1.0"
+description = "ESG report analyzer using regex-based NLP"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pymupdf",
+]
